@@ -4,3 +4,8 @@ secrets/
 *.secret
 __pycache__/
 *.pyc
+
+# Auto-added by workspace cleanup
+*.pyo
+.pytest_cache/
+*.egg-info/

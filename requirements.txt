@@ -1,0 +1,5 @@
+# Runtime dependencies
+jq
+
+# Test dependencies
+pytest>=8,<9
